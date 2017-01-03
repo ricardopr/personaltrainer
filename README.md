@@ -1,2 +1,3 @@
 # personaltrainer
-teste push pull etc... etc..
+Pagina de controle dos arquivos Git
+
